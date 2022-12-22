@@ -1,0 +1,20 @@
+2022-12-22 15:45:06: (server.c.1488) server started (lighttpd/1.4.55) 
+2022-12-22 15:45:06: (mod_compress.c.271) can't stat compress.cache-dir /var/cache/lighttpd/compress/ Permission denied 
+2022-12-22 15:45:06: (server.c.1496) Configuration of plugins failed. Going down. 
+2022-12-22 15:46:03: (server.c.1488) server started (lighttpd/1.4.55) 
+2022-12-22 15:46:03: (mod_compress.c.271) can't stat compress.cache-dir /var/cache/lighttpd/compress/ Permission denied 
+2022-12-22 15:46:03: (server.c.1496) Configuration of plugins failed. Going down. 
+2022-12-22 15:46:11: (server.c.1488) server started (lighttpd/1.4.55) 
+2022-12-22 15:46:11: (mod_compress.c.271) can't stat compress.cache-dir /var/cache/lighttpd/compress/ Permission denied 
+2022-12-22 15:46:11: (server.c.1496) Configuration of plugins failed. Going down. 
+2022-12-22 15:47:51: (server.c.1488) server started (lighttpd/1.4.55) 
+2022-12-22 15:48:35: (server.c.1970) server stopped by UID = 0 PID = 1155256 
+2022-12-22 15:48:35: (server.c.424) unlink failed for: /home/shuaiduan/01-Code/line_web/learning-threejs-master/root_path/run/lighttpd.pid 2 No such file or directory 
+2022-12-22 15:48:38: (server.c.1488) server started (lighttpd/1.4.55) 
+2022-12-22 16:04:31: (server.c.936) [note] graceful shutdown started 
+2022-12-22 16:04:31: (server.c.424) unlink failed for: /home/shuaiduan/01-Code/line_web/learning-threejs-master/root_path/run/lighttpd.pid 2 No such file or directory 
+2022-12-22 16:04:31: (server.c.1970) server stopped by UID = 0 PID = 0 
+2022-12-22 16:05:09: (server.c.1488) server started (lighttpd/1.4.55) 
+2022-12-22 17:19:11: (server.c.936) [note] graceful shutdown started 
+2022-12-22 17:19:11: (server.c.424) unlink failed for: /home/shuaiduan/01-Code/line_web/root_path/run/lighttpd.pid 2 No such file or directory 
+2022-12-22 17:19:11: (server.c.1970) server stopped by UID = 0 PID = 0 
