@@ -18,3 +18,16 @@
 2022-12-22 17:19:11: (server.c.936) [note] graceful shutdown started 
 2022-12-22 17:19:11: (server.c.424) unlink failed for: /home/shuaiduan/01-Code/line_web/root_path/run/lighttpd.pid 2 No such file or directory 
 2022-12-22 17:19:11: (server.c.1970) server stopped by UID = 0 PID = 0 
+2022-12-22 17:44:45: (server.c.1488) server started (lighttpd/1.4.55) 
+2022-12-22 17:52:31: (server.c.1970) server stopped by UID = 0 PID = 1223742 
+2022-12-22 17:52:31: (server.c.424) unlink failed for: /home/shuaiduan/01-Code/learning-threejs/AA_root_path/run/lighttpd.pid 2 No such file or directory 
+2022-12-22 17:52:48: (server.c.1488) server started (lighttpd/1.4.55) 
+2022-12-22 17:52:58: (response.c.173) file not found ... or so:  Resource temporarily unavailable /assets/textures/Metro01.JPG -> ../assets/textures/Metro01.JPG 
+2022-12-22 17:52:58: (response.c.173) file not found ... or so:  Resource temporarily unavailable /favicon.ico -> ../favicon.ico 
+2022-12-22 17:54:55: (server.c.936) [note] graceful shutdown started 
+2022-12-22 17:54:55: (server.c.1970) server stopped by UID = 0 PID = 0 
+2022-12-22 17:55:11: (server.c.1488) server started (lighttpd/1.4.55) 
+2022-12-22 17:55:17: (response.c.173) file not found ... or so:  Resource temporarily unavailable /assets/textures/Metro01.JPG -> ../assets/textures/Metro01.JPG 
+2022-12-22 17:55:17: (response.c.173) file not found ... or so:  Resource temporarily unavailable /favicon.ico -> ../favicon.ico 
+2022-12-22 18:41:54: (server.c.936) [note] graceful shutdown started 
+2022-12-22 18:41:54: (server.c.1970) server stopped by UID = 0 PID = 0 
